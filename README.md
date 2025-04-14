@@ -2,6 +2,8 @@
 
 A demonstration of how to create a more advanced “complex heatmap” with multiple row and column annotations, custom clustering, and a combined legend.
 
+![Complex Heatmap Example](heatmap_example.png)
+
 ---
 
 ## Overview
